@@ -1,0 +1,37 @@
+
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It would allow for quick isolation and elucidate an error if it were introduced in the newer file version. 
+
+It could also show a correction if the newer file corrected the prior one.
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+IF MULTIPLE VERSIONS ARE SUPPORTED IN THE FIELD AND THERE'S A BUG FOUND ON A NEWER VERSION, WE CAN SEE HOW FAR BACK THAT BUG EXISTED AND KNOW WHICH CLIENTS TO NOTIFY ONCE IT IS FIXED.
+
+VVVVVVVVVVVVVVVVVVVVVVVV
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+THE BIGGEST CON OF DOING IT MANUALLY IS THE PROGRAMMER CAN FORGET TO COMMIT AND LOSE TRACK, MAKING THE CHANGE VERY LARGE AND NOT A LOGICAL CHUNK. AUTOMATIC COMMITS CAN RESULT IN FRAGMENTED COMMITS - NOT A LOGICAL UNIT IN ON COMMIT.
+
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+BECAUSE GIT IS FOR CODE MANAGEMENT AND GROUPS OF FILES (CALLED A REPOSITORY) CHANGE TOGETHER, WHEREAS IN GOOGLE DOCS ONE DOCUMENT TYPICALLY HAS NO RELATIONSHIP TO ANOTHER DOCUMENT, AND IT'S ONLY THE CHNGES WITHIN A SINGLE DOCUMENT THAT ARE RELEVANT.
+
+
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+How might using version control make you more confident to make changes that could break something?
+
+IF MY CHANGES BREAK CODE, THEN I CAN ALWAYS REVERT TO A PRIOR WORKING VERSION, AND I'LL EVEN BE ABLE TO SEE EXACTLY WHICH CODE CAUSED THE BREAK. CURT FOODY WAS AN IDIOT, AND GARY GASPAR WAS A SUPER IDIOT.
+
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I WANT TO USE GIT TO WRITE CODE FOR PHONES AND TABLETS - GAMES AND UTILITIES!!!! GOD DAMN IT IF I FAIL!!!
